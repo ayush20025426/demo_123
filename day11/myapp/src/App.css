@@ -1,0 +1,32 @@
+.header{
+    background-color: rgb(88, 201, 201);
+}
+
+.nav-items{
+    display: flex;
+   
+}
+.nav-items li{
+    padding: 15px;
+    margin: 15px;
+    /* gap: 20px; */
+    list-style: none;
+    /* background-color: #f0f0f0; */
+    font-size: 30px;
+
+}
+.logo{
+    width: 15px;
+    height: 15px;
+}
+.product{
+    height: 105px;
+    width: 105px;
+
+}
+.product-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
